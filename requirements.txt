@@ -8,6 +8,5 @@ plotly
 numba
 dask
 graphviz
-pygraphviz
 ipywidgets
 streamlit
