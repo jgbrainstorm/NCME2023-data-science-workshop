@@ -34,10 +34,10 @@ Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New 
 ### Schedule (may subject to adjustments)
 8:00 AM - 12:00 PM; 1:00 PM - 5:00 PM
 
-Session 1: General Introduction
-Session 2: Python ABC
-Session 3: Data science, wrangling, visualization and dashboarding
-Session 4: Machine learning, parallel computing
+* Session 1: General Introduction
+* Session 2: Python ABC
+* Session 3: Data science, wrangling, visualization and dashboarding
+* Session 4: Machine learning, parallel computing
 
 ### Prerecorded tutorials (for Session 1 and 2)
-<https://www.youtube.com/playlist?list=PLTjGXYWEXkmcQw6kz16TkjdNK8V1Qk1SL>
+[![Click to see the videos](video_image.png)](https://www.youtube.com/playlist?list=PLTjGXYWEXkmcQw6kz16TkjdNK8V1Qk1SL)
