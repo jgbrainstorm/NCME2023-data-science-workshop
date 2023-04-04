@@ -1,4 +1,4 @@
-# NCME2023-data-science-workshop
+# NCME2023 data science upskilling workshop
 #### 8:00 AM - 12:00 AM, 1:00 PM - 5:00 PM, April 12 2023
 #### Chicago Ballroom B
 #### Instructor: Jiangang Hao, Oren Livne (videos)
