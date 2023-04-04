@@ -39,5 +39,5 @@ Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New 
 * Session 3: Data science, wrangling, visualization and dashboarding
 * Session 4: Machine learning, parallel computing
 
-### Prerecorded tutorials (for Session 1 and 2, click to see the playlist)
+### Prerecorded tutorials (for Session 1 and 2, click the picture below to go to the playlist)
 [![Click to see the videos](video_image.png)](https://www.youtube.com/playlist?list=PLTjGXYWEXkmcQw6kz16TkjdNK8V1Qk1SL)
