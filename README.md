@@ -41,3 +41,8 @@ Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New 
 
 ### Prerecorded tutorials (for Session 1 and 2, click the picture below to see the playlist)
 [![Click to see the videos](video_image.png)](https://www.youtube.com/playlist?list=PLTjGXYWEXkmcQw6kz16TkjdNK8V1Qk1SL)
+
+
+
+### Leave us your feedback after the workshop
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDm_aqgXmVK2rpdgKu0v7O64AY_mp3vfnKnDAhCCvGZDbIqg/viewform?embedded=true" width="640" height="811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
