@@ -45,4 +45,6 @@ Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New 
 
 
 ### Leave us your feedback after the workshop
+<div>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDm_aqgXmVK2rpdgKu0v7O64AY_mp3vfnKnDAhCCvGZDbIqg/viewform?embedded=true" width="640" height="811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
