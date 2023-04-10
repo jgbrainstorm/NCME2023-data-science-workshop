@@ -2,7 +2,7 @@ numpy
 scipy
 scikit-learn
 pandas
-matplot
+matplotlib
 seaborn
 plotly
 numba
