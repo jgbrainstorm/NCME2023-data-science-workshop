@@ -11,3 +11,4 @@ graphviz
 ipywidgets
 streamlit
 statsmodels
+jupyterlab
