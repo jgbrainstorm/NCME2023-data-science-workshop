@@ -26,6 +26,26 @@ Basic knowledge in statistics and python programming language.
 * Learn how to use machine learning in Python and Orange
 
 
+### Setup virtual environment
+You can use conda or mamba <https://github.com/conda-forge/miniforge>. Download and install. After that, clone the current github repository and then enter into that directory/folder. Do the following
+
+1. Create a python 3.10 virtual environment by
+```
+mamba create -n ncme23 python=3.10
+```
+
+2. Activate the environment by:
+```
+mamba activate ncme23
+```
+
+3. Install the packages in the requirements.txt file
+```
+mamba install --file requirements.txt
+```
+
+
+
 ### References
 
 Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New Methodologies for a New Generation of Digital Learning and Assessment, Springer. <https://link.springer.com/book/10.1007/978-3-030-74394-9>
